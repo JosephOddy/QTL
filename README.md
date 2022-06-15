@@ -1,3 +1,3 @@
-# QTL
+# Soft wheat mapping population analysis
 
-Materials for analysis of QTL from Claire x Robigus mapping population.
+Scripts/data used for R shiny QTL app and genomic prediction.
